@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **[Laravel](https://github.com/riecodes/laravel)**
 - 👯 My projects are available at **[GitHub](https://github.com/riecodes)**
 - 💬 Ask me about **dev, academic, life, gaming, hobbies**
-- 📫 How to reach me: **eirmonpaculan11@gmail.com**
+- 📫 How to reach me: **riecodes.collab@gmail.com**
 - 🥅 Goals: **Build problem solving systems for clients and leveling up in full-stack development**
 
 <h3 align="left">Connect with me:</h3>
