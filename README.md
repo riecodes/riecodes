@@ -24,17 +24,17 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,php,py,java,c,cs,cpp,dart,kotlin,html,css" alt="JavaScript, TypeScript, PHP, Python, Java, C, C#, C++, Dart, Kotlin, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,py,java,c,cs,cpp,dart,kotlin,rust,html,css" alt="JavaScript, TypeScript, PHP, Python, Java, C, C#, C++, Dart, Kotlin, Rust, HTML, CSS" />
 </p>
 
 <h3 align="left">Frontend & mobile:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,bootstrap,flutter" alt="Next.js, React, Vite, Tailwind CSS, Bootstrap, Flutter" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,astro,vite,tailwind,bootstrap,flutter,tauri" alt="Next.js, React, Astro, Vite, Tailwind CSS, Bootstrap, Flutter, Tauri" />
 </p>
 
 <h3 align="left">Backend & services:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,dotnet,firebase,supabase" alt="Laravel, Node.js, .NET, Firebase, Supabase" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,dotnet,fastapi,firebase,supabase" alt="Laravel, Node.js, .NET, FastAPI, Firebase, Supabase" />
 </p>
 
 <h3 align="left">Database:</h3>
@@ -50,6 +50,17 @@
 <h3 align="left">Tools & deploy:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,cloudflare,figma" alt="Git, GitHub, VS Code, Docker, Vercel, Cloudflare, Figma" />
+</p>
+
+<h3 align="left">AI tools:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
 <h3 align="left">GitHub streak:</h3>
